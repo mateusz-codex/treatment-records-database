@@ -1,0 +1,9 @@
+Copyright (c) 2026 Mateusz Desperak
+
+This source code is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+This means that users are required to retain the original author's attribution by providing the name of the original creator.
+Commercial use of this material is strictly prohibited without separate permission from the author.
+You are allowed to modify and redistribute this work, provided that you indicate that changes have been made and preserve the original attribution.
+
+The full legal text of the license is available at:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
